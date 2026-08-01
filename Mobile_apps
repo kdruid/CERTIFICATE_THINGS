@@ -113,3 +113,351 @@ Fragmentation: Many devices and operating systems can lead to fragmentation issu
 Addiction and distraction: The convenience and entertainment value of mobile apps can lead to overuse or addiction. This can negatively impact productivity, mental health, and social interactions.
 
 Cost: While many apps are free, others have a price tag or require in-app purchases. Users may spend more than they initially anticipated, especially if they need to unlock additional features or subscribe to premium services.
+
+Cloud computing: Defined
+- One company holds the water and the individuals gain the clean water through the company
+
+Benefits of Cloud Computing
+- Scalability:
+    Easily add/remove resources depending on requirements.
+- Cost-effectiveness:
+    Pay for the resources that you use
+- Flexibility:
+    Credentials are provided
+    Access resources from anywhere with an internet connection.
+- Availaibility:
+    Backup options.
+    Services stay accessible
+- Security measures:
+    Data encryption
+    Regular updates
+    Higher user acceptance
+
+APP Components
+- Front end:
+    App component that users interact with
+    Includes the user interface(UI) and all visual elements, such as buttons, forms and navigation menus.
+    Provides a seamless user experience(UX)
+    Provides a responsive design
+
+- Back end:
+    Data management: Handles data storage and manipulation.
+    User authentication: Verifies user identity and controls access.
+    Business logic: Executes core app functionalities.
+    API integration: Connects to external services and APIs.
+    Server management: Manages server resources.
+
+- Database:
+    Data storage: Stores data in a structured format
+    Data retrieval: Provides real-time information to the app
+    Data security: Provides data from unauthorized access.
+    Scalability: Handles increasing volumes of data and user requests as the app grows.
+- APIs(Application Programming Interfaces):
+    Allow data exchange.
+    Enable the front end to communicate with the back end.
+
+
+Hosting mobile services on the cloud
+- Choose a cloud provider:
+    Scalability
+    Cost
+    Features
+    Location
+- Create an account:
+    Valid billing details
+- Allocate the necessary resources.
+- Deploy the application:
+    Back-end code
+    Servers, load balancers, APIs
+    Network components
+- Ensures app security:
+    Firewalls
+    Encryption
+    Access controls
+    Update regularly
+- Montor app
+    Resource usage
+    Performance
+    Security
+    Notifications
+
+Factors to consider
+- Performance:
+    Speed
+    Reliability
+- Scalability:
+    Accomodate additional users and data
+    Maintain app speed
+- Cost management
+    Keep track of your resource spending.
+- Data privacy and compliance
+    Follow data privacy laws
+- Disaster recovery
+    Set up backup solutions
+    Backup data recovery
+
+Cloud Tools for Mobile Development
+Estimated time needed: 5 minutes
+
+Overview
+Cloud tools are essential for developers, providing a streamlined way to build, test, and manage mobile apps using the internet. These tools make it easier to create apps without worrying about physical servers and infrastructure. By using cloud tools, developers can focus on making their apps better and more efficient.
+
+Objective
+After completing this reading, you will be able to explore different cloud tools for mobile app development and assess how to apply them effectively.
+
+Categories of cloud tools for mobile development
+Cloud tools for mobile development can be divided into several main categories:
+
+Development tools
+Testing tools
+Management tools
+Analytics tools
+Security tools
+Development tools
+Development tools help developers create and build mobile apps. These tools provide the necessary environment and resources to write, compile, and deploy app code.
+
+Mobile App Development Platform from IBM: Helps developers build, launch and maintain apps that are native, hybrid or web-based.
+
+Amazon Web Services (AWS) Amplify: A set of tools and services to help mobile developers build scalable apps.
+
+Google Firebase: Provides a suite of cloud services to help developers build high-quality apps.
+
+Microsoft Azure App Service: A platform to build and host mobile app backend.
+
+Heroku: A service that allows developers to create, run, and manage applications in the cloud.
+
+Back4App: A backend platform for building and scaling apps.
+
+Testing tools
+Testing tools help ensure that mobile apps work correctly and are free of bugs. They provide environments to test apps on different devices and gather feedback.
+
+IBM Mobile Quality Assurance: Helps developers test their apps to find and fix issues before releasing them.
+
+BrowserStack: Allows developers to test their apps across different devices and browsers.
+
+TestFairy: Provides detailed bug reports and session recordings to help developers understand app issues.
+
+Firebase Test Lab: Offers cloud-based infrastructure for testing Android and iOS apps.
+
+Sauce Labs: Offers cross-browser testing and mobile app testing on real devices.
+
+Management tools
+Management tools help developers manage, update, and monitor their mobile apps once they are released. They provide features for version control, analytics, and user engagement.
+
+IBM Mobile Foundation: Provides a platform to manage app versions, push updates, and monitor app performance.
+
+Microsoft App Center: Helps manage app distribution, monitoring, and analytics.
+
+Google Firebase: Provides analytics, crash reporting, and user engagement tools to manage apps.
+
+Airship: Helps manage mobile app messaging and user engagement.
+
+Leanplum: Provides tools for app optimization and user engagement.
+
+Rollout.io: Allows developers to control feature rollouts and manage app versions.
+
+Analytics tools
+Analytics tools help developers track and understand how users interact with their mobile apps. These tools offer valuable insights that can be leveraged to enhance app performance and optimize the user experience.
+
+IBM Cognos Analytics: Offers advanced data analysis and visualization tools.
+
+Google Analytics for Firebase: Provides detailed analytics and reporting for mobile apps.
+
+Mixpanel: Helps track user interactions and analyze user behavior in mobile apps.
+
+Amplitude: Provides insights into user behavior and engagement.
+
+Flurry Analytics: Offers mobile app analytics and user insights.
+
+Countly: A product analytics solution and innovation enabler that helps teams track performance and make data-driven decisions.
+
+Security tools
+Security tools help protect mobile apps and their data. These tools provide features like encryption, authentication, and monitoring to ensure that apps are secure.
+
+IBM App ID: Provides authentication and user management for mobile apps.
+
+AWS Identity and Access Management (IAM): Assists control access to AWS services and resources securely.
+
+Google Cloud Identity: Manages user identities and provides secure access to services and applications.
+
+Auth0: Provides a flexible, drop-in solution to add authentication and authorization services to apps.
+
+Okta: Offers identity and access management solutions.
+
+Lookout: Provides security solutions to protect mobile devices from threats.
+
+Pros and cons of cloud tools
+To understand the full impact of cloud tools on mobile app development, it's important to weigh both their advantages and challenges. Here's a breakdown of the pros and cons of using these tools:
+
+Pros
+Integration: Cloud tools often integrate well with other services, making development easier.
+Scalability: Effortlessly adjust resources up or down based on needs.
+Cost-effectiveness: Pay only for the resources you use, which can save money.
+Flexibility: Access resources from anywhere with an internet connection.
+Security: Cloud providers offer strong security features to protect data.
+Cons
+Complexity: Some cloud tools can be complex to set up and use.
+Dependency: Relying on a cloud provider means you are dependent on their uptime and policies.
+Cost management: If not managed properly, costs can add up quickly.
+How to get started with cloud tools
+To effectively begin using cloud tools for mobile app development, you can follow these steps:
+
+1. Choose a cloud provider: Pick a cloud provider that fits your needs (for example, IBM, AWS, Google).
+
+2. Set up an account: Create an account with the chosen cloud provider.
+
+3. Start small: Begin with basic tools, and as you become more familiar, gradually explore the more advanced features.
+
+4. Use tutorials and documentation: Most cloud providers offer tutorials and extensive documentation to help you get started.
+
+5. Experiment and learn: Try out different tools and services to see what works best for your mobile app development needs.
+
+How does cloud computing play a crucial role in modern mobile app development?
+- Cloud back-end is essential for web and mobile development.
+- Developers must be familiar with cloud services.
+- Cloud offers scalable solutions.
+- Capacity and size can expand.
+- Initial costs are minimal.
+- Costs increases with growth.
+- Provides data access from any device
+- Allows for flexible working.
+- Assists in patching updates and deployment.
+- Helps manage and view performance analytics in real time.
+
+Cloud computing:
+- Is critical for mobile apps
+- Ensures good performance overtime
+- Provides analytics, logging, and statistics.
+- Integrates the services seamlessly
+- Focus on the main app code.
+
+WHat benefits does it offer in terms of scalability, data storage, and accessibility?
+- Security is another benefit of cloud providers
+- No need to hire seperately
+- Users should also remain mindful
+- Providers offer baseline security
+- Cloud development has widespread expertise.
+- Community knowledge is a valuable resource.
+- Adds back-end functionality easily
+- AWS App Services simplify data storage.
+- Does not require a back-end specialist
+- Offers load balancing to improve speed.
+- Specifies region to users for data access.
+- Maximizes scalability and accessibility.
+- Allows data storage for apps
+- Grows with user base and features.
+
+A mobile app is software with a specific purpose that you can install and run on mobile devices.
+
+Mobile apps work on mobile devices, including smartphones, tablets, wearable devices, automobile infotainment devices, and eReaders like Kindle.
+
+Apps provide different functionalities like help, notification, and inclusive user experience.
+
+Apps may be designed to work on one or multiple device types.
+
+A mobile app developer is a software developer with specialized skills, including knowledge of specific languages, frameworks, and tools used in mobile app development. 
+
+App categories by the industry they service include utility apps for simple tasks, productivity apps for improving efficiency, connectivity apps to connect with other individuals or groups through text, voice, and video, social media and networking apps for networking, communication, and collaboration, health and fitness apps for tracking and monitoring physical and mental fitness, educational apps for helping users learn, shopping apps for viewing and purchasing items, news and entertainment apps for information across the world, business apps, for real-time business transactions 
+
+Apps can be pre-installed, downloaded free of cost, or for a fee.
+
+Apps can also be categorized based on platforms, business models, technology, or content.
+
+The components of an app include front end, back end, database, and APIs.
+
+Front end includes the user interface and the client-side logic for user interactions.
+
+An app's back end manages the business logic, data processing, and server-side operations.
+
+APIs enable communication between the front end and the back end.
+
+The steps in processing a user request include user interaction with the app's UI on their mobile device, the front end sending a request to the backend server through APIs, the back end processing the request and preparing a response after interacting with the database as necessary, the back end sending the response back to the front end through APIs, and the front end receiving the response and updating the UI as required based on the response.
+
+Developers can use cloud resources to create scalable, reliable, and secure mobile applications that meet user needs. 
+
+Understanding how to host mobile services on the cloud effectively is crucial for the success of modern mobile apps. 
+
+With cloud computing, the parts of a mobile app, including the front end, back end, APIs, and database, can work smoothly, providing a strong base for app functionality.
+
+Mobile operating system
+Servers as the backbone of:
+- Smartphones
+- Tablets
+- Other mobile devices.
+
+Software interface:
+- Enables a device to run applications and programs.
+
+Legacy mobile platforms:
+- PalmOS for PDAs:
+    Designed for touchscreen.
+    Offered utility apps.
+- Symbian OS:
+    Used for Nokia, Ecrisson, and Motorola smartphones.
+- Blackberry OS:
+    Used for Blackberry phones
+    Handled utility and social networking apps
+    Blackberry Messenger:
+        Peer-to-peer internet communication
+        Last released in 2012
+- Windows OS for Phone: 
+    Used for smartphones and tablets
+    Last released in 2017.
+
+# Learn vanilla Ice-Cream
+Future of Mobile Platforms
+- New research.
+- Recent OS: Ubuntu Touch, GrapheneOS, KaiOS, SailFishOS.
+- Availability of more cross-platform and web-based apps.
+
+Native apps
+- Built for a particular OS.
+- Written in a lang the platform supports.
+- Complete access to all the device features.
+
+Cross-platform apps
+- Designed to work on multiple platforms.
+- Single codebase.
+- Frameworks example: 
+    Flutter
+    React Native
+- Saves time and resources.
+- Lower performance and native feel.
+
+Hybrid apps
+- Combine elements of both native and web apps.
+- Tech used: Apache Cordova and Ionic
+
+Progressive Web Apps(PWAs)
+- Provide a native app-like experience
+- Built using standard web technologies.
+- Can be accessed through a browser.
+- Can be installed on a device.
+- Offer offline capabilities, push notifications, and fast loading times.
+- Bridge the gap between web and native apps.
+
+Comparing the types of mobile apps
+- Performance.
+- Development time and cost
+- UX
+- Maintenance and updates
+
+Selecting the right type of mobile app
+- Target audience and market:
+    Specific platform: Native app
+    Diverse user base: Cross-platform/hybrid apps
+
+- Project budget and timeline:
+    Native apps: More resoursces used
+    Other apps: Cost-effective & quicker dev cycles.
+- Required features and performance:
+    Native app: Intense use of device capabilities
+    Cross platform/hybrid apps: Standard business apps
+    PWAs: Simple, content-driven apps
+- Development team expertise:
+    PWA/hybrid: Proficient in web tech
+    Native: Proficient in platform specific dev.
+- Long-term maintenance and scalability: 
+    Ease of maintaining and scaling:
+        Cross platform: stream lined maintenance
+        Native apps: With more effort reqs better scalability & performance over time.
